@@ -96,5 +96,5 @@ h2{
 .parrafo-4{
 	padding: 20px;
 	margin-top: 60px;
-	margin-right: 400px;
+	float: right;
 }
