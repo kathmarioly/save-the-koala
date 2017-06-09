@@ -69,6 +69,7 @@ h2{
 
 #caja-tres{
 	margin-top: 40px;
+	margin-bottom: 40px;
 	padding: 10px;
 }
 
@@ -79,6 +80,9 @@ h2{
 	color: #41521F;
 }
 
+
+/*seccion-cuatro*/
+
 .fourth-section{
 	background-image: url(../img/all.jpg);
 	height: 100vh;
@@ -86,9 +90,7 @@ h2{
 	background-repeat: no-repeat;
 	width: 100%;
 	color: white;
-
-	}
-
+}
 .no{
 	color: white;
 }
@@ -98,3 +100,29 @@ h2{
 	margin-top: 60px;
 	float: right;
 }
+
+
+
+/*Seccion cinco*/
+
+.not-hard{
+	padding: 20px;
+	color: #b2b266;
+}
+
+#caja-cinco{
+	padding: 5px;
+}
+
+.texto-cinco{
+	margin-top: 50px;
+	padding: 10px;
+}
+.fa{
+	color: #b2b266;
+	width: 50%;
+	margin-top: 50px;
+	font-size: 100px;
+
+}
+
