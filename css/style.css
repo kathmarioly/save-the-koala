@@ -61,3 +61,19 @@ army green: 41521F;
 h2{
 	color: #999966;
 }
+
+.third-section{
+	background-color: #b2b266;
+	color: white;
+}
+
+#caja-tres{
+	margin-top: 40px;
+}
+
+.koala-tres{
+	border: 3px solid white;
+}
+.alerta{
+	color: #41521F;
+}
