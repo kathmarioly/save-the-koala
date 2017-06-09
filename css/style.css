@@ -27,3 +27,14 @@ army green: 41521F;
     color: white;
     font-size: 18px;
 }
+
+#sumo{
+	color: white;
+	padding-top: 18em;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:  #41521F;
+    border-color: #41521F;
+}
