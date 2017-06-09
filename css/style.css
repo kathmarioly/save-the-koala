@@ -119,10 +119,38 @@ h2{
 	padding: 10px;
 }
 .fa{
-	color: #b2b266;
+	color: 66;
 	width: 50%;
 	margin-top: 50px;
 	font-size: 100px;
 
 }
 
+footer{
+	background-color: #41521F;
+	text-decoration: none;
+	color: white;
+}
+
+.pie-pagina li{
+	list-style: none;
+	margin-top: 10px;
+
+}
+
+ a {
+    color: #b2b266;
+    font-size: 10px;
+
+}
+
+a:hover{
+    background-color: #33331a;
+    color: #fff;
+
+}
+
+.about-2{
+	color: #b2b266;
+	padding: 10px;
+}
