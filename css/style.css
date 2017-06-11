@@ -154,3 +154,31 @@ a:hover{
 	color: #b2b266;
 	padding: 10px;
 }
+
+.six-section{
+	background-color: #b2b266;
+	padding: 18px;
+}
+
+.can-help{
+	color: #41521F;
+}
+
+.personal{
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.numero{
+	color: white;
+	font-size: 80px;
+	background-size: cover;
+	padding: 0;
+	margin-top: -43px;
+}
+
+.signo{
+	margin-right: 93px;
+	padding: 0px;
+
+}
