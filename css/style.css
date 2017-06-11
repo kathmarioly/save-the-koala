@@ -182,3 +182,14 @@ a:hover{
 	padding: 0px;
 
 }
+
+
+.btn-secondary{
+	background-color: #41521F;
+	color: white;
+}
+
+.btn-secondary:hover{
+	background-color: white;
+	color: #41521F;
+}
